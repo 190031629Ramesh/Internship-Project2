@@ -1,1 +1,2 @@
-# Internship-Project2
+# InternshipJavaProject2
+Home Inventory Project
